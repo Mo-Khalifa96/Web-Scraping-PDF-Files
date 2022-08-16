@@ -24,5 +24,5 @@ free to test the program in whatever way you like.**
 <br>
 
 ***To view the program and run the code, click on the following link:*** <br>
-https://mybinder.org/v2/gh/Mo-Khalifa96/Web-Scraping-PDF-Files/main?urlpath=https%3A%2F%2Fgithub.com%2FMo-Khalifa96%2FWeb-Scraping-PDF-Files%2Fblob%2Fmain%2FWeb%2520Scraping%2520PDF%2520Files%2520(Jupyter%2520version).ipynb
+https://mybinder.org/v2/gh/Mo-Khalifa96/Web-Scraping-PDF-Files/main?labpath=Web%20Scraping%20PDF%20Files%20(Jupyter%20version).ipynb
 <br>
