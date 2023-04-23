@@ -7,9 +7,6 @@ three versions of the code: the first simply searches for and extracts any pdf l
 are valid and active, and the third makes the code more generally applicable, allowing the user to copy and paste any web page they like (instead of 
 using only one sample web pages as in versions 1 and 2).**
 <br>
-
-**I also included two versions of the program, the first is a Python script with the raw code, the second is a Jupyter Notebook version, which breaks down the program into separate, executable cells, making the program easier to read and interact with.**
-<br>
 <br>
 <br>
 
